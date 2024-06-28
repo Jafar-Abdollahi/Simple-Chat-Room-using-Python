@@ -35,7 +35,7 @@ You can reach me at:
 
 Email: ja.abdollahi77@gmail.com
 LinkedIn: https://www.linkedin.com/in/jafar-abdollahi-7647971b3/
-\n
+<br>
 Google Scholar: https://scholar.google.com/citations?user=2dK8kPwAAAAJ&hl=en
 researchgate: https://www.researchgate.net/profile/Jafar-Abdollahi?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImxvZ2luIiwicGFnZSI6ImhvbWUiLCJwcmV2aW91c1BhZ2UiOiJsb2dpbiIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19
 youtube: https://www.youtube.com/@jafarabdollahi/featured
